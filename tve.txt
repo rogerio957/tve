@@ -1,0 +1,132 @@
+
+
+#EXTM3U
+#EXTINF:-24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/b4c15a80-ddf5-491d-8ef7-c6c70f7819ab/0.m3u8
+#EXTINF:-AfrolandTV	
+https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8
+#EXTINF:-Alfa Dramas	
+https://www.hellasnet.tv/rest.live.hn/ws.alf/chunklist_w2063438206.m3u8
+#EXTINF:-AMC IFC Film Picks	
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-American Classics	
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-An American Christmas Carol	
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-Asylum XUMO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-Bazme Asheghan	
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
+#EXTINF:-Bflix Movies	
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-Bloody Disgusting	
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
+#EXTINF:-Bollywood	
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist1080p.m3u8
+#EXTINF:-Bumblebee TV Classics	
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8
+#EXTINF:-Bumblebee TV PopCornFlix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w1037500233.m3u8
+#EXTINF:-Cine Romantic XUMO	
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-Cinema +
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w1052311053.m3u8
+#EXTINF:-Dust	
+https://dai.google.com/linear/hls/pa/event/xuMJ1vhQQDGjEWlxK9Qh4w/stream/69594f1a-c932-4d33-9281-f8087a2a2f2d:BRU/variant/3a97908b2cbf29aab56ed6f8e7b94967/bandwidth/5253600.m3u8
+#EXTINF:-Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-FilmRise Free Movies Redbox	
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/576x432_5000000/index.m3u8
+#EXTINF:-FilmRise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-FrightFlix
+https://content-aeuf1.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d/e.m3u8?pbs=92103cf1a6e841b99677b0814fb73336
+#EXTINF:-FTV	
+https://str2.yodacdn.net/publive/ftv/video.m3u8
+#EXTINF:-Ghost TV	
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1792480659.m3u8
+#EXTINF:-Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-IFC Films Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
+#EXTINF:-iFilm Arabic
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_w1783733863_b944100_slen.m3u8
+#EXTINF:-Khatereh TV	
+https://5caf24a595d94.streamlock.net:1937/8130/8130/chunklist_w380945718.m3u8
+#EXTINF:-Local Now Drama	
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist_1280x720.m3u8
+#EXTINF:-Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+#EXTINF:-Maverick Black Cinema	
+https://maverick-maverick-black-cinema-2.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-MBC Plus Drama	
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:-Moovimex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-Movie Kingdom	
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-MovieFe	
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/chunklist_w1269013094_b816940.m3u8
+#EXTINF:-MovieSphere	
+https://moviesphere-plex.amagi.tv/playlist1080p.m3u8
+#EXTINF:-Mythos	
+https://rpn1.bozztv.com/36bay2/gusa-mythos/tracks-v1a1/mono.m3u8?nimblesessionid=56607493
+#EXTINF:-MyTime movie network Brazil	
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-MyTime movie network Spain	
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-Nee Cinema
+https://live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-NETV Toronto	
+https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1287187364.m3u8
+#EXTINF:-Retro Plus 3	
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/chunklist_w672068194.m3u8
+#EXTINF:-Rotana Cinema	
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+#EXTINF:-Screamfest	
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+#EXTINF:-STIRR FilmRise Free Movies	
+https://dai.google.com/linear/hls/pa/event/Va1QEor0SWO_x_SQNyaF0w/stream/4db9bb95-bb41-4685-9f62-05d4336655ff:BRU/variant/c426bdac1bc16b1acc297dffd7bda5fc/bandwidth/2689125.m3u8
+#EXTINF:-STIRR Gravitas Movies	
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/1613e8b9-8439-450f-9c55-482938fe04d9:BRU/variant/b0103bf35de44606e1712f275330a0b0/bandwidth/3072000.m3u8
+#EXTINF:-STIRR Made in Hollywood	
+https://dai.google.com/linear/hls/pa/event/3NTKKQBuQtaIrcUBj20lyg/stream/afc6a45a-ca2a-4885-84b7-35632ed3a080:BRU/variant/31a492b7ae6daccffcbd2c096e1ffdc1/bandwidth/2689125.m3u8
+#EXTINF:-STIRR MovieMix
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/c6aa63f2-7d8c-4c92-a722-37d7150cacd1:BRU/variant/120ec92db5ccf78290084992084029fc/bandwidth/3072000.m3u8
+#EXTINF:-STIRR Movies
+https://dai.google.com/linear/hls/pa/event/f-zA7b21Squ7M1_sabGfjA/stream/c864596e-700f-46c7-9bf0-5086a8986e8f:BRU/variant/df7a025f84fc10cad1abe824db7b28d9/bandwidth/2689125.m3u8
+#EXTINF:-STIRR Mystery Science	
+https://dai.google.com/linear/hls/pa/event/rmBGeSwhQEG64TrT0_JO2A/stream/39fc97dc-ef2b-4318-9926-dcc1b6047d5e:BRU/variant/d0ef33864fac42538aa1ae644a18bf8f/bandwidth/5860800.m3u8
+#EXTINF:-STIRR Westerns	
+https://dai.google.com/linear/hls/pa/event/YF2jfXh_QROPxoHEwp1Abw/stream/bae98015-e6a6-415a-852a-ec254560937c:BRU/variant/5c42df56189be4cfaa1b425277fb1e3d/bandwidth/2689125.m3u8
+#EXTINF:-TVS Drive in Movie	
+https://d15690s323oesy.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/c4b6a80e-81e8-48de-a022-615d90a577d1/0.m3u8
+#EXTINF:-Victor Valley Movies	
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
+#EXTINF:-npemlepa	
+https://content-aeuf1.uplynk.com/channel/29aff31fecb848ab9044369db2d61642/e.m3u8?pbs=d081c707d12c4cc5b1eae48eb54e799e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
